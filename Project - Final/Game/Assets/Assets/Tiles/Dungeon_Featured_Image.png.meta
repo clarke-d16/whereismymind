@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 41db49b590416d045a3a91a4385e12b4
+timeCreated: 1508806689
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dungeon_Featured_Image_0
+    21300002: Dungeon_Featured_Image_1
+    21300004: Dungeon_Featured_Image_2
+    21300006: Dungeon_Featured_Image_3
+    21300008: Dungeon_Featured_Image_4
+    21300010: Dungeon_Featured_Image_5
+    21300012: Dungeon_Featured_Image_6
+    21300014: Dungeon_Featured_Image_7
+    21300016: Dungeon_Featured_Image_8
+    21300018: Dungeon_Featured_Image_9
+    21300020: Dungeon_Featured_Image_10
+    21300022: Dungeon_Featured_Image_11
+    21300024: Dungeon_Featured_Image_12
+    21300026: Dungeon_Featured_Image_13
+    21300028: Dungeon_Featured_Image_14
+    21300030: Dungeon_Featured_Image_15
+    21300032: Dungeon_Featured_Image_16
+    21300034: Dungeon_Featured_Image_17
+    21300036: Dungeon_Featured_Image_18
+    21300038: Dungeon_Featured_Image_19
+    21300040: Dungeon_Featured_Image_20
+    21300042: Dungeon_Featured_Image_21
+    21300044: Dungeon_Featured_Image_22
+    21300046: Dungeon_Featured_Image_23
+    21300048: Dungeon_Featured_Image_24
+    21300050: Dungeon_Featured_Image_25
+    21300052: Dungeon_Featured_Image_26
+    21300054: Dungeon_Featured_Image_27
+    21300056: Dungeon_Featured_Image_28
+    21300058: Dungeon_Featured_Image_29
+    21300060: Dungeon_Featured_Image_30
+    21300062: Dungeon_Featured_Image_31
+    21300064: Dungeon_Featured_Image_32
+    21300066: Dungeon_Featured_Image_33
+    21300068: Dungeon_Featured_Image_34
+    21300070: Dungeon_Featured_Image_35
+    21300072: Dungeon_Featured_Image_36
+    21300074: Dungeon_Featured_Image_37
+    21300076: Dungeon_Featured_Image_38
+    21300078: Dungeon_Featured_Image_39
+    21300080: Dungeon_Featured_Image_40
+    21300082: Dungeon_Featured_Image_41
+    21300084: Dungeon_Featured_Image_42
+    21300086: Dungeon_Featured_Image_43
+    21300088: Dungeon_Featured_Image_44
+    21300090: Dungeon_Featured_Image_45
+    21300092: Dungeon_Featured_Image_46
+    21300094: Dungeon_Featured_Image_47
+    21300096: Dungeon_Featured_Image_48
+    21300098: Dungeon_Featured_Image_49
+    21300100: Dungeon_Featured_Image_50
+    21300102: Dungeon_Featured_Image_51
+    21300104: Dungeon_Featured_Image_52
+    21300106: Dungeon_Featured_Image_53
+    21300108: Dungeon_Featured_Image_54
+    21300110: Dungeon_Featured_Image_55
+    21300112: Dungeon_Featured_Image_56
+    21300114: Dungeon_Featured_Image_57
+    21300116: Dungeon_Featured_Image_58
+    21300118: Dungeon_Featured_Image_59
+    21300120: Dungeon_Featured_Image_60
+    21300122: Dungeon_Featured_Image_61
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dungeon_Featured_Image_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 264
+        width: 132
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon_Featured_Image_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 331
+        width: 121
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon_Featured_Image_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 251
+        width: 116
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon_Featured_Image_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 206
+        width: 145
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon_Featured_Image_4
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 276
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon_Featured_Image_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 250
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon_Featured_Image_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 200
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon_Featured_Image_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 200
+        width: 128
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon_Featured_Image_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon_Featured_Image_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 64
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Dungeon_Featured_Image_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 64
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
